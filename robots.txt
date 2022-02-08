@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets_c/
+
+Sitemap:https://2021.bit-valley.jp/sitemap.xml

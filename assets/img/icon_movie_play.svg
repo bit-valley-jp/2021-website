@@ -1,0 +1,16 @@
+<svg id="btn" xmlns="http://www.w3.org/2000/svg" width="80.938" height="80.938" viewBox="0 0 80.938 80.938">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #313131;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="楕円形_1" data-name="楕円形 1" class="cls-1" cx="40.469" cy="40.469" r="40.469"/>
+  <path id="長方形_3" data-name="長方形 3" class="cls-2" d="M435.581,715.936l17.6,12.572-17.6,12.572V715.936Z" transform="translate(-401.031 -688.031)"/>
+</svg>

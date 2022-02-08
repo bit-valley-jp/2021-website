@@ -1,0 +1,1843 @@
+{
+  "session_list": [
+
+    {
+      "id": 42,
+      "img": "../../assets_mt/upload/01_session_08.png",
+      "name": "Recap",
+      "caption": "BIT VALLEY 2021 #07のセッションの振り返りと、BIT VALLEY 2021全体の振り返りをトークセッション形式でお話しします。",
+      "day": "2021年11月24日(水)",
+      "open_time": "16:40",
+      "close_time": "17:00",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 12,
+          "img": "../../assets_mt/upload/6c0f8a30d14f380194481e0a0bef84835a0debca.jpg",
+          "name_ja": "村瀬 龍馬",
+          "name_en": "Tatsuma Murase",
+          "position": "株式会社ミクシィ 取締役CTO"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 41,
+      "img": "../../assets_mt/upload/07_session_05.png",
+      "name": "Work From Anywhereを実現するはたらく環境とコミュニケーション",
+      "caption": "働き方の急激な変化の中で、オフィス環境や制度の変更など、あまり大きく変えなかった企業もあれば、オフィス縮小やハイブリッドワーク化など、大幅に変わった企業もあります。本セッションでは、この2〜3年で実施したことや、実施してよかった事、今後に向けて検討中の施策、各働き方のスタイルに応じたメリット・デメリットなど、コーポレートITの担当者達が、働き方の変化と社内システムの変化などをざっくばらんにパネル形式でディスカッションをします。",
+      "day": "2021年11月24日(水)",
+      "open_time": "16:00",
+      "close_time": "16:40",
+      "youtubeId": "jfTv69Z7wzM",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 68,
+          "img": "../../assets_mt/upload/7-5-2_kato.png",
+          "name_ja": "加藤 徳英",
+          "name_en": "Norihide Kato",
+          "position": "株式会社ミクシィ はたらく環境推進本部 社内IT室長"
+        },
+
+        {
+          "id": 67,
+          "img": "../../assets_mt/upload/7-5_owaki.png",
+          "name_ja": "大脇 智洋",
+          "name_en": "Tomohiro Owaki",
+          "position": "株式会社ディー・エヌ・エー IT戦略部 部長"
+        },
+
+        {
+          "id": 71,
+          "img": "../../assets_mt/upload/7-5-3_yoshino.png",
+          "name_ja": "吉野 一也",
+          "name_en": "Kazuya Yoshino",
+          "position": "LINE株式会社 IT支援室 室長"
+        },
+
+        {
+          "id": 72,
+          "img": "../../assets_mt/upload/7-5-4_nakano.png",
+          "name_ja": "中野 仁",
+          "name_en": "Hisashi Nakano",
+          "position": "株式会社 AnityA（アニティア） 代表取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 40,
+      "img": "../../assets_mt/upload/07_session_04.png",
+      "name": "Work From Anywhere における情報セキュリティ",
+      "caption": "これまでのオフィス環境だけでの業務に比べ、働き方の変化と共に、企業におけるセキュリティ対策の変化も急務となりました。本セッションでは、GMOインターネット、ディー・エヌ・エー、ミクシィの3社におけるセキュリティ対策や考え方、新たな課題など、情報の保管場所（企業内、個人PC内、人が持つ情報等）や作業環境に応じたセキュリティ対策についてパネルディスカッション形式でお届けする予定です。",
+      "day": "2021年11月24日(水)",
+      "open_time": "15:00",
+      "close_time": "15:50",
+      "youtubeId": "W0Kw1PBOElc",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 69,
+          "img": "../../assets_mt/upload/7-4-1_GMO_matsui.png",
+          "name_ja": "松井 大介",
+          "name_en": "Daisuke Matsui",
+          "position": "GMOインターネット株式会社 次世代システム研究室 大阪研究開発グループ マネージャー"
+        },
+
+        {
+          "id": 70,
+          "img": "../../assets_mt/upload/7-4-2_shigeiwa.png",
+          "name_ja": "茂岩 祐樹",
+          "name_en": "Yuki Shigeiwa",
+          "position": "株式会社ディー・エヌ・エー システム本部セキュリティ部 部長"
+        },
+
+        {
+          "id": 65,
+          "img": "../../assets_mt/upload/7-4-3_kameyama.png",
+          "name_ja": "亀山 直生",
+          "name_en": "Naoki Kameyama",
+          "position": "株式会社ミクシィ 開発本部セキュリティ室 室長"
+        },
+
+        {
+          "id": 66,
+          "img": "../../assets_mt/upload/7-4_kaneko.png",
+          "name_ja": "金子 春信",
+          "name_en": "Harunobu Kaneko",
+          "position": "アカマイ・テクノロジーズ合同会社 シニア・プロダクトマーケティングマネージャー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 39,
+      "img": "../../assets_mt/upload/07_session_03.png",
+      "name": "ハイブリッドワークにおける課題とベストプラクティス -情報共有とツールの観点から-",
+      "caption": "新型コロナウイルスの影響により今後の働き方が注目されていますが、ハイブリッドワークへの潮流はこれからも続くと考えられます。新しい働き方を模索する中、最も困難なのは、チームのスピードとアラインメント（チーム全員が仕事をするために必要な情報を同期出来ている状態）をいかに保つかという点です。All-in-one workspaceを提供するNotionのユーザーであるスタートアップと大企業へのヒアリング結果から、「情報の地図を作る」、「組織の透明性によるメンバーの自走」、「非同期型コミュニケーションの促進」というキーワードが見えてきました。本セッションでは、現在、チームが直面している課題とそれに対するベストプラクティスを考えます。",
+      "day": "2021年11月24日(水)",
+      "open_time": "14:20",
+      "close_time": "14:50",
+      "youtubeId": "ADCOyuPHZiI",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 64,
+          "img": "../../assets_mt/upload/7-3_nishi2.png",
+          "name_ja": "西 勝清",
+          "name_en": "Katsukiyo Nishi",
+          "position": "Notion Labs Inc. ゼネラルマネジャー 日本担当"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 38,
+      "img": "../../assets_mt/upload/07_session_02.png",
+      "name": "知識と智慧「言葉と身体」",
+      "caption": "コロナ禍により働き方やその他の生き方が、大きく変化し続けています。しかしそれ以前から我々が言葉（知識）にたより過ぎているようです。カタカナやアルファベットの頭文字の単語が、バズワードとなっているのが例です。しかし、そのような言葉は腹落ちされてから使われているのでしょうか。言葉は我々に簡単に、短い時間で分かった「つもり」にさせてくれますが、全てをとらえきれません。　そこで、言葉（知識）と身体（智慧）ということをもう一度見直してみましょう。",
+      "day": "2021年11月24日(水)",
+      "open_time": "13:40",
+      "close_time": "14:10",
+      "youtubeId": "6LOP-UN0EO0",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 63,
+          "img": "../../assets_mt/upload/7-2_kawakami.png",
+          "name_ja": "川上 全龍",
+          "name_en": "Zenryu Kawakami",
+          "position": "妙心寺 春光院 副住職"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 37,
+      "img": "../../assets_mt/upload/07_session_01.png",
+      "name": "イノベーションが生まれる職場環境とは",
+      "caption": "組織にイノベーションが普及するということは、イノベーションがそこで働く人の考え方、日々の働き方、他の人との関わり方の一部となり、尊重されていることを意味します。特に、VUCAと評される不確かな状況が続くこの時代において、クリエイティビティとイノベーションがより一層求められるようになりました。ニューノーマルに順応できる多様な働き方の実現には、従業員同士の相互理解と質の高いつながりが鍵となります。本セッションでは、Googleが考えるイノベーションが生まれる職場環境の要素をご紹介します。※こちらのセッションはライブ配信のみとなります。アーカイブ配信はございませんので、ぜひリアルタイムにご視聴ください。",
+      "day": "2021年11月24日(水)",
+      "open_time": "13:00",
+      "close_time": "13:30",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 62,
+          "img": "../../assets_mt/upload/7-1_mizutani_01.gif",
+          "name_ja": "水谷 嘉仁",
+          "name_en": "Yoshihito Mizutani",
+          "position": "グーグル合同会社 広告営業本部 パートナー プレックス エバンジェリスト a.k.a CEO (Chief Entertainment Officer) "
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/230630/",
+        "url": "guide-wfa",
+        "name_theme": "#07 Guide to Work From Anywhere",
+        "name_title": "WFA環境の整え方",
+        "deadline": "11月23日(火) 17:00",
+        "day": "11月24日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 36,
+      "img": "../../assets_mt/upload/06_session_04.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #06のセッションを振り返り、アフタートークと#07の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年11月10日(水)",
+      "open_time": "21:00",
+      "close_time": "21:15",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 18,
+          "img": "../../assets_mt/upload/2-1-3_inamori.jpg",
+          "name_ja": "稲守 貴久",
+          "name_en": "Takahisa Inamori",
+          "position": "GMOインターネット株式会社 次世代システム研究室 チーフクリエイター 兼 デベロッパーリレーションズチーム"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/229057/",
+        "url": "career",
+        "name_theme": "#06 Build another career",
+        "name_title": "副業・兼業でキャリアを広げる",
+        "deadline": "11月9日(火) 17:00",
+        "day": "11月10日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 35,
+      "img": "../../assets_mt/upload/06_session_03.png",
+      "name": "副業で広がるキャリアの可能性と働き方の選択肢",
+      "caption": "働き方改革が進み、副業を解禁して社員の多様なキャリア選択の後押しをする企業が増えてきました。本業で得たスキルや知見を活用してチャレンジしてみたい、本業では得られない経験やスキルを身につけたい、もっと収入を増やしたい、など副業の動機や形は人によって様々ですが、そんな副業経験の中で得たものや失ったもの、本業と副業とのバランス、副業によって自分のキャリアがどう広がったのかなど、リアルな副業経験をお聞きします。",
+      "day": "2021年11月10日(水)",
+      "open_time": "20:10",
+      "close_time": "21:00",
+      "youtubeId": "HcRX7vrwnm8",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 59,
+          "img": "../../assets_mt/upload/6-3-1_ito.png",
+          "name_ja": "伊藤 恭平",
+          "name_en": "Kyohei Ito",
+          "position": "株式会社サイバーエージェント メディア統括本部"
+        },
+
+        {
+          "id": 58,
+          "img": "../../assets_mt/upload/6-3-2_tani.png",
+          "name_ja": "谷 賢史",
+          "name_en": "Satoshi Tani",
+          "position": "株式会社ミクシィ デザイン本部 クリエイティブ室"
+        },
+
+        {
+          "id": 60,
+          "img": "../../assets_mt/upload/6-3-3_kamiya.png",
+          "name_ja": "神谷 優",
+          "name_en": "Yu Kamiya",
+          "position": "株式会社サイバーエージェント ソフトウェアエンジニア／Ms.Engineer co-founder"
+        },
+
+        {
+          "id": 56,
+          "img": "../../assets_mt/upload/5-1-5_nishimura.png",
+          "name_ja": "西村 創一朗",
+          "name_en": "Soichiro Nishimura",
+          "position": "株式会社HARES 代表取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/229057/",
+        "url": "career",
+        "name_theme": "#06 Build another career",
+        "name_title": "副業・兼業でキャリアを広げる",
+        "deadline": "11月9日(火) 17:00",
+        "day": "11月10日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 34,
+      "img": "../../assets_mt/upload/06_session_02.png",
+      "name": "副業を活用したキャリア形成について",
+      "caption": "テクノロジーの進化やコロナ禍によって複雑さを増す現代は、将来予測が困難な状況になっています。多くの大手企業では早期退職募集や定年制前倒しなどが議論され、個人のキャリア形成が企業主体だった時代は終わりを迎えました。これからは、個々人が自身のキャリアについて自分なりの考えを持ち、キャリア開発を行う時代です。このセッションでは、主体的なキャリア形成における副業の活用方法や、求人サイト「ビズリーチ」における副業・兼業の事例についてご紹介致します。",
+      "day": "2021年11月10日(水)",
+      "open_time": "19:35",
+      "close_time": "20:00",
+      "youtubeId": "sR8vyIVpnUw",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 57,
+          "img": "../../assets_mt/upload/6-2_yasukouchi.png",
+          "name_ja": "安河内 崇",
+          "name_en": "Takashi Yasukouchi",
+          "position": "株式会社ビズリーチ 取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/229057/",
+        "url": "career",
+        "name_theme": "#06 Build another career",
+        "name_title": "副業・兼業でキャリアを広げる",
+        "deadline": "11月9日(火) 17:00",
+        "day": "11月10日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 33,
+      "img": "../../assets_mt/upload/06_session_01.png",
+      "name": "サイボウズが進めてきた100人100通りの働き方　副業制度の実態とは",
+      "caption": "2012年から副業が認められているサイボウズでは、導入から少しずつ変化をしながら現在に至っています。制度の運用から考え方まで、その変化の変遷をお伝えいたします。",
+      "day": "2021年11月10日(水)",
+      "open_time": "19:00",
+      "close_time": "19:25",
+      "youtubeId": "qFyzqjM7xOc",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 61,
+          "img": "../../assets_mt/upload/6-1_matsukawa.png",
+          "name_ja": "松川 隆",
+          "name_en": "Takashi Matsukawa",
+          "position": "サイボウズ株式会社 チームワーク総研シニアコンサルタント"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/229057/",
+        "url": "career",
+        "name_theme": "#06 Build another career",
+        "name_title": "副業・兼業でキャリアを広げる",
+        "deadline": "11月9日(火) 17:00",
+        "day": "11月10日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 32,
+      "img": "../../assets_mt/upload/05_session_05.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #05のセッションを振り返り、アフタートークと#06の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年10月27日(水)",
+      "open_time": "15:50",
+      "close_time": "16:10",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 46,
+          "img": "../../assets_mt/upload/4-7-2_otsuki.png",
+          "name_ja": "大月 英照",
+          "name_en": "Hideteru Otsuki",
+          "position": "株式会社ディー・エヌ・エー システム本部 CTO室"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/227278/",
+        "url": "tour-wfa",
+        "name_theme": "#05 Tour of Work From Anywhere",
+        "name_title": "WFAの可能性を探る",
+        "deadline": "10月26日(火) 17:00",
+        "day": "10月27日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 31,
+      "img": "../../assets_mt/upload/05_session_04.png",
+      "name": "フルリモートワークで運営している企業のリアル",
+      "caption": "創業以来7年間フルリモートで会社を経営し、今も1000名以上のメンバーがフルリモートで働く株式会社キャスターとコロナ禍をきっかけにオフィスをなくしフルリモートワーク経営に移行した株式会社soeasyの取締役がフルリモートワーク企業のリアルなところをお話しします。",
+      "day": "2021年10月27日(水)",
+      "open_time": "15:00",
+      "close_time": "15:50",
+      "youtubeId": "JHMwXELoAVI",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 48,
+          "img": "../../assets_mt/upload/5-4_ishikura.png",
+          "name_ja": "石倉 秀明",
+          "name_en": "Hideaki Ishikura",
+          "position": "株式会社キャスター 取締役CRO"
+        },
+
+        {
+          "id": 54,
+          "img": "../../assets_mt/upload/5-4-2_hozumi.png",
+          "name_ja": "保積 雄介",
+          "name_en": "Yusuke Hozumi",
+          "position": "株式会社soeasy 取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/227278/",
+        "url": "tour-wfa",
+        "name_theme": "#05 Tour of Work From Anywhere",
+        "name_title": "WFAの可能性を探る",
+        "deadline": "10月26日(火) 17:00",
+        "day": "10月27日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 30,
+      "img": "../../assets_mt/upload/05_session_03.png",
+      "name": "ヌーラボにおけるテレワークの現状と研修としてのワーケーション制度、4年目のイマココ",
+      "caption": "ヌーラボでは、2020年8月より採用時の勤務地条件を廃止しました。廃止によって、北は北海道、南は長崎のメンバーが集まり全国に散らばる組織ができました。また、コロナ禍と呼ばれるずっと前の2018年より、研修としてワーケーションを行う独自の制度「リゾートワーク制度」を推進しています。今回は、テレワークの現状と、リゾートワーク制度の4年間の進化を通して、ヌーラボのテレワークの現状についてお伝えしたいと思います。",
+      "day": "2021年10月27日(水)",
+      "open_time": "14:30",
+      "close_time": "14:50",
+      "youtubeId": "2zvolDjYOT4",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 53,
+          "img": "../../assets_mt/upload/5-3_adachi.png",
+          "name_ja": "安立 沙耶佳",
+          "name_en": "Sayaka Adachi",
+          "position": "株式会社ヌーラボ 管理部 人事労務課"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/227278/",
+        "url": "tour-wfa",
+        "name_theme": "#05 Tour of Work From Anywhere",
+        "name_title": "WFAの可能性を探る",
+        "deadline": "10月26日(火) 17:00",
+        "day": "10月27日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 29,
+      "img": "../../assets_mt/upload/05_session_02.png",
+      "name": "人生は好きなところで",
+      "caption": "メルカリ（メルペイ）の東京オフィス勤務から転勤や転職をしないまま、2020年12月から北海道に一軒家を購入し移住しました。コロナ禍でリモートワークが浸透する中で都会に住む必要性に疑問を覚え、あえて仕事を中心に考えずに人生の大きな選択をしました。このセッションでは、慣れない生活でパニック障害になりながらも地方移住を決めたエンジニアのリアルな実体験をお話します。また、移住後に開始したメルカリの新しいワークスタイルであるYOUR CHOICEについてもご紹介致します。",
+      "day": "2021年10月27日(水)",
+      "open_time": "14:00",
+      "close_time": "14:20",
+      "youtubeId": "sYNhi87pa1g",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 55,
+          "img": "../../assets_mt/upload/5-2_tenntenn.png",
+          "name_ja": "上田 拓也",
+          "name_en": "Takuya Ueda",
+          "position": "株式会社メルペイ エキスパートチーム"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/227278/",
+        "url": "tour-wfa",
+        "name_theme": "#05 Tour of Work From Anywhere",
+        "name_title": "WFAの可能性を探る",
+        "deadline": "10月26日(火) 17:00",
+        "day": "10月27日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 28,
+      "img": "../../assets_mt/upload/05_session_01.png",
+      "name": "リモートワークは生産性の敵か味方か？4社と語るWFA最前線",
+      "caption": "コロナ禍により半ば強制的にリモートワークが日本で普及しはじめて早1年半。当初はメリットばかりが強調されていたものの、「テレワークが生産性を下げ、イノベーションを脅かす」といった研究結果が発表されて話題になるなど、リモートワークやWork From Anywhare（WFA）は曲がり角を迎えています。緊急事態宣言が明け、出社を義務づける企業も出て来ていますが、リモートワークは本当に生産性の敵なのでしょうか？実際に在宅勤務やワーケーション、地方の開発拠点などさまざまなカタチでリモートワーク・WFAに取り組まれている4社とともに、リモートワークの功罪や、リモートワークで生産性を最大化するコツやTipsに迫ります。",
+      "day": "2021年10月27日(水)",
+      "open_time": "13:00",
+      "close_time": "13:50",
+      "youtubeId": "3n7SMPalLvk",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 49,
+          "img": "../../assets_mt/upload/5-1-1_hirako.png",
+          "name_ja": "平子 裕喜",
+          "name_en": "Yuki Hirako",
+          "position": "株式会社ディー・エヌ・エー システム本部CTO室"
+        },
+
+        {
+          "id": 50,
+          "img": "../../assets_mt/upload/5-1-2_murakami.png",
+          "name_ja": "村上 悠",
+          "name_en": "Yu Murakami",
+          "position": "GMOインターネット株式会社 システム本部 アクセス開発部 マネージャー 兼 エバンジェリスト"
+        },
+
+        {
+          "id": 51,
+          "img": "../../assets_mt/upload/5-1-3_sasaki.png",
+          "name_ja": "佐々木 忠輝",
+          "name_en": "Tadateru Sasaki",
+          "position": "株式会社ミクシィ 人材採用部"
+        },
+
+        {
+          "id": 52,
+          "img": "../../assets_mt/upload/5-1-4_itashiki.png",
+          "name_ja": "板敷 康洋",
+          "name_en": "Yasuhiro Itashiki",
+          "position": "株式会社サイバーエージェント 全社システム本部／技術政策管轄エンジニアリングマネージャ"
+        },
+
+        {
+          "id": 56,
+          "img": "../../assets_mt/upload/5-1-5_nishimura.png",
+          "name_ja": "西村 創一朗",
+          "name_en": "Soichiro Nishimura",
+          "position": "株式会社HARES 代表取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/227278/",
+        "url": "tour-wfa",
+        "name_theme": "#05 Tour of Work From Anywhere",
+        "name_title": "WFAの可能性を探る",
+        "deadline": "10月26日(火) 17:00",
+        "day": "10月27日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 27,
+      "img": "../../assets_mt/upload/04_session_06.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #04のセッションを振り返り、アフタートークと#05の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年10月8日(金)",
+      "open_time": "16:15",
+      "close_time": "16:35",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 46,
+          "img": "../../assets_mt/upload/4-7-2_otsuki.png",
+          "name_ja": "大月 英照",
+          "name_en": "Hideteru Otsuki",
+          "position": "株式会社ディー・エヌ・エー システム本部 CTO室"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 26,
+      "img": "../../assets_mt/upload/04_session_05.png",
+      "name": "ソフトウェアが土台にあるということ",
+      "caption": "「すべての経済活動を、デジタル化する」をミッションにLayerXでは請求書処理SaaSやFintech事業、Privacy Techなどデジタル化、ソフトウェアを使うということに真正面から向き合って参りました。本セッションでは、自社での、特に金融事業の中で取り組んできたとても泥臭いデジタル化、ソフトウェアを基礎に据えた事業への取り組みを例にしながらソフトウェアが土台にある事業というのはどういうことなのか、何がどう変わるのかというお話をさせていただきます。AIだのBlockchainだの難しそうなことは抜きにして、明日から取り組めるなにか、またこうした領域で事業を初めたい方に何らかのヒントになれば幸いです。",
+      "day": "2021年10月8日(金)",
+      "open_time": "15:45",
+      "close_time": "16:15",
+      "youtubeId": "jUfBSsi9Sxs",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 39,
+          "img": "../../assets_mt/upload/4-6_matsumotoyuki.png",
+          "name_ja": "松本 勇気",
+          "name_en": "Yuki Matsumoto",
+          "position": "株式会社LayerX 代表取締役CTO"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 25,
+      "img": "../../assets_mt/upload/04_session_04.png",
+      "name": "モノと情報、インタースペース",
+      "caption": "メタバースやデジタルツインなどの言葉がバズワード化する中、デジタル空間の持つ意味と価値、特に日本という社会や渋谷のような街が持つ可能性を、コモングラウンドおよびインタースペースという概念を通じて、先行事例との関係の中で解説する。",
+      "day": "2021年10月8日(金)",
+      "open_time": "15:10",
+      "close_time": "15:40",
+      "youtubeId": "MFeolwQmlME",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 43,
+          "img": "../../assets_mt/upload/4-5_toyoda.png",
+          "name_ja": "豊田 啓介",
+          "name_en": "Keisuke Toyoda",
+          "position": "東京大学生産技術研究所、noiz、gluon、建築情報学会 特任教授"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 24,
+      "img": "../../assets_mt/upload/04_session_03.png",
+      "name": "IoTとデータの力で移動のDXを実現する、LUUPの挑戦",
+      "caption": "LUUPは、電動キックボードや電動アシスト自転車をはじめとするマイクロモビリティのシェアリングサービスを、現在は渋谷を中心とした東京・大阪エリアで展開しています。生活場面における最重要な活動の一つである「移動」をデジタル化して利用者にシームレスな乗車体験をもたらすために、IoTデバイスを通じたソフトウェアとハードウェアの接続、データ分析を通じたサービス運営オペレーションの最適化など、様々な側面から技術的挑戦を行ってきました。街中を自由に走る車体やユーザーの動きを把握して制御しなければならない、リアルサービスならではの難しさと醍醐味をリアルに話せればと思います。",
+      "day": "2021年10月8日(金)",
+      "open_time": "14:35",
+      "close_time": "15:05",
+      "youtubeId": "ZXLew-eL-sM",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 40,
+          "img": "../../assets_mt/upload/4-3_okada.png",
+          "name_ja": "岡田 直道",
+          "name_en": "Naomichi Okada",
+          "position": "株式会社Luup Software Development部 CTO"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 23,
+      "img": "../../assets_mt/upload/04_session_02.png",
+      "name": "地方行政におけるDX推進～地方公共団体のシステム標準化とガバメントクラウドの整備～",
+      "caption": "現在、国・地方を通じて、デジタルに関連する施策は大きな転換を迎えています。その中でも、今回は、すべての地方公共団体に関連する、情報システムの標準化とガバメントクラウドの整備、というテーマを取り上げます。この２つの施策が何を目指しているのか、地方行政にどのような影響を与えるのか、どのように検討が進められているのか、などを扱います。",
+      "day": "2021年10月8日(金)",
+      "open_time": "14:00",
+      "close_time": "14:30",
+      "youtubeId": "Tf9nMlcHrDc",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 47,
+          "img": "../../assets_mt/upload/4-2_enso.png",
+          "name_ja": "圓増 正宏",
+          "name_en": "Masahiro Enso",
+          "position": "デジタル庁 企画官（地方業務システム基盤T）"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 22,
+      "img": "../../assets_mt/upload/04_session_01.png",
+      "name": "DXで何が起きているか？現在のリアル。",
+      "caption": "コロナ禍の日本では、これまでDXとは距離のあった行政や企業も含め、いっせいにその必要性に迫られて動き出しています。行政の施策から民間の事業展開、さらには組織開発に至るまで、様々な現場で奮闘する皆さんに集まっていただき、決して綺麗ごとだけではない「現在のリアル」を聞いていただきたいと思います。これまでのしがらみや多くの失敗にもめげずに、DXで前に進むためのヒントを得ていただければ幸いです。",
+      "day": "2021年10月8日(金)",
+      "open_time": "13:00",
+      "close_time": "13:50",
+      "youtubeId": "57Ue-9Mu1ns",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 44,
+          "img": "../../assets_mt/upload/4-1-1_kato.png",
+          "name_ja": "加藤 茜",
+          "name_en": "Akane Kato",
+          "position": "渋谷区役所 経営企画部 副参事 スマートシティ推進担当課長"
+        },
+
+        {
+          "id": 45,
+          "img": "../../assets_mt/upload/4_1_2_yahoo_oya.png",
+          "name_ja": "大屋 誠",
+          "name_en": "Makoto Oya",
+          "position": "ヤフー株式会社 データソリューション事業本部 パブリックエンゲージメント部 部長"
+        },
+
+        {
+          "id": 42,
+          "img": "../../assets_mt/upload/4-1-3_norimatsu.png",
+          "name_ja": "乗松 康行",
+          "name_en": "Yasuyuki Norimatsu",
+          "position": "東急株式会社 デジタルプラットフォーム 課長"
+        },
+
+        {
+          "id": 41,
+          "img": "../../assets_mt/upload/4-2-4_matsuo.png",
+          "name_ja": "松尾 勉",
+          "name_en": "Tsutomu Matsuo",
+          "position": "株式会社サイバーエージェント 渉外室ゼネラルマネージャー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/224449/",
+        "url": "dx",
+        "name_theme": "#04 Power of Digital",
+        "name_title": "最新DX事情〜デジタルの力でより豊かに〜",
+        "deadline": "10月7日(木) 17:00",
+        "day": "10月8日(金)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 21,
+      "img": "../../assets_mt/upload/03_session_06.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #03のセッションを振り返り、アフタートークと#04の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年9月8日(水)",
+      "open_time": "15:50",
+      "close_time": "16:10",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 18,
+          "img": "../../assets_mt/upload/2-1-3_inamori.jpg",
+          "name_ja": "稲守 貴久",
+          "name_en": "Takahisa Inamori",
+          "position": "GMOインターネット株式会社 次世代システム研究室 チーフクリエイター 兼 デベロッパーリレーションズチーム"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 20,
+      "img": "../../assets_mt/upload/03_session_05.png",
+      "name": "【技術の力を、100万人のユーザーの感情価値にまで届ける】 ーSHEのコミュニティ学習プラットフォーム ",
+      "caption": "SHEはコミュニティを軸とした学習プラットフォームです。 累計3万人の受講生に対して自分らしいキャリアの実現支援を行っており、現在サービスを100万人規模に拡張するための技術投資を進めております。 この発表では、我々の試行錯誤から生み出された提供価値、Coaching, Contents, Communityと、 それをスケールさせるための技術アイデアについて紹介します。",
+      "day": "2021年9月8日(水)",
+      "open_time": "15:30",
+      "close_time": "15:50",
+      "youtubeId": "PpOyOLiiQQ8",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 37,
+          "img": "../../assets_mt/upload/3-5-1_SHE_CTOMurashita.jpg",
+          "name_ja": "村下 瑛",
+          "name_en": "Akira Murashita",
+          "position": "ＳＨＥ株式会社 執行役員 / CTO"
+        },
+
+        {
+          "id": 38,
+          "img": "../../assets_mt/upload/3-5-2_SHE_Matsuo.jpg",
+          "name_ja": "マツオ エリコ",
+          "name_en": "Eriko Matsuo",
+          "position": "ＳＨＥ株式会社 HRマネージャー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 19,
+      "img": "../../assets_mt/upload/03_session_04%20%281%29.png",
+      "name": "デジタル企業のプロスポーツクラブ運営への挑戦",
+      "caption": "Jリーグ FC琉球のクラブ運営DXに取り組んだ半年間で学んだこと。デジタルサービス運営との違いと共通点。デジタル企業だから生める価値差分とは。",
+      "day": "2021年9月8日(水)",
+      "open_time": "15:00",
+      "close_time": "15:20",
+      "youtubeId": "E0dG_N_c9YA",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 34,
+          "img": "../../assets_mt/upload/3-3-2_taniwaki2.jpg",
+          "name_ja": "谷脇 良也",
+          "name_en": "Yoshiya Taniwaki",
+          "position": "株式会社マイネット 新規事業準備室 プロジェクトマネージャー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 18,
+      "img": "../../assets_mt/upload/03_session_03.png",
+      "name": "５G等通信の最新技術およびコロナ禍の取り組み事例について",
+      "caption": "５Gサービス開始をして1年経過し、お客様の５Gの御利用状況と、業界動向について技術的な観点のお話と、コロナ禍において、社会から求められている課題（主にリモート系が多いですが）への対応事例についてをお話しさせていただければと思います。",
+      "day": "2021年9月8日(水)",
+      "open_time": "14:30",
+      "close_time": "14:50",
+      "youtubeId": "jcRWfXt3g-Q",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 35,
+          "img": "../../assets_mt/upload/2d15138f2366576ca942baaeebd400b2d89b5aa1.jpg",
+          "name_ja": "井上 篤弘",
+          "name_en": "Atsuhiro Inoue",
+          "position": "NTTドコモ ５G・IoTビジネス部 ビジネスデザイン担当部長"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 17,
+      "img": "../../assets_mt/upload/03_session_02.png",
+      "name": "共創型デジタルマッピングでつくる渋谷のデジタルツイン",
+      "caption": "クラウドソーシング手法を用いてオープンな360°ストリートビューデータを収集するとともに、得られた画像情報を用いた機械学習及びフォトグラメトリ技術による地物の認識と三次元点群データの生成を効率良く行い、都市のデジタルツインデータを市民と共創するコミュニティづくりをご紹介します。",
+      "day": "2021年9月8日(水)",
+      "open_time": "14:00",
+      "close_time": "14:20",
+      "youtubeId": "cRM-931Yp04",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 36,
+          "img": "../../assets_mt/upload/3-2-1_furuhashi.jpg",
+          "name_ja": "古橋 大地",
+          "name_en": "Taichi Furuhashi",
+          "position": "青山学院大学 革新技術と社会共創研究所・教授"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 16,
+      "img": "../../assets_mt/upload/03_session_01.png",
+      "name": "世の中がデジタルになるってどういうこと？ 〜テクノロジーが作り続ける「あたりまえ」を話そう〜",
+      "caption": "初回のBIT VALLEY 2018が開催されてから早3年。この間も、日々多くの技術は進化し、そして、私たちの日常生活、そして、社会全体が変化し続けています。加えて、2020年初頭からのコロナ禍で、今、渋谷、日本、世界での「デジタル化」の動きは加速し、大きなうねりを見せています。日本では国家戦略として掲げられたSociety 5.0の実現に向け、2021年3月に第6期科学技術・イノベーション基本計画が閣議決定され、産学官さまざまな立場からの取り組みが行われています。今回のセッションでは、「世の中のデジタル化」にフォーカスを当て、そもそもデジタル化とは何を行うのか、そして、その結果、生活や社会がどう変わるのかについて、4つの領域からのゲストをお招きし、それぞれの領域の現状と未来について、技術軸・ビジネス軸・ライフスタイル軸の観点から取り上げ、ディスカッションを進め、私たちが目指す社会、たどり着く未来について考察します。",
+      "day": "2021年9月8日(水)",
+      "open_time": "13:00",
+      "close_time": "13:50",
+      "youtubeId": "6AWyGWp6VvI",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 29,
+          "img": "../../assets_mt/upload/3-1-2_yagami.jpg",
+          "name_ja": "矢上 聡洋",
+          "name_en": "Akihiro Yagami",
+          "position": "GMOあおぞらネット銀行株式会社 CTO"
+        },
+
+        {
+          "id": 30,
+          "img": "../../assets_mt/upload/3-1-3_kimura.jpg",
+          "name_ja": "木村 衆平",
+          "name_en": "Shuhei Kimura",
+          "position": "株式会社サイバーエージェント AI事業本部 データ・ワン事業部 プロダクトマネージャー AI事業本部 データサイエンスセンター センター長 (兼)"
+        },
+
+        {
+          "id": 31,
+          "img": "../../assets_mt/upload/3-1-4_yoshino.jpg",
+          "name_ja": "吉野 純平",
+          "name_en": "Junpei Yoshino",
+          "position": "株式会社ミクシィ 開発本部 インフラ室 室長"
+        },
+
+        {
+          "id": 32,
+          "img": "../../assets_mt/upload/3-1-5_hazekawa.jpg",
+          "name_ja": "沙魚川 久史",
+          "name_en": "Hisashi Hazekawa",
+          "position": "セコム株式会社 オープンイノベーション推進担当 リーダー / 本社企画部担当課長 / 東京理科大学イノベーション研究センターフェロー"
+        },
+
+        {
+          "id": 28,
+          "img": "../../assets_mt/upload/3-1-1_gihyofuon.jpg",
+          "name_ja": "馮 富久",
+          "name_en": "Tomihisa Fuon",
+          "position": "株式会社技術評論社 クロスメディア事業室 部長代理"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/221831/",
+        "url": "new-world",
+        "name_theme": "#03 Welcome to New World",
+        "name_title": "テクノロジーが叶える新しい世界",
+        "deadline": "9月7日(火) 17:00",
+        "day": "9月8日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 14,
+      "img": "../../assets_mt/upload/02_session_07.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #02のセッションを振り返り、アフタートークと#03の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年8月11日(水)",
+      "open_time": "16:25",
+      "close_time": "16:45",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 18,
+          "img": "../../assets_mt/upload/2-1-3_inamori.jpg",
+          "name_ja": "稲守 貴久",
+          "name_en": "Takahisa Inamori",
+          "position": "GMOインターネット株式会社 次世代システム研究室 チーフクリエイター 兼 デベロッパーリレーションズチーム"
+        },
+
+        {
+          "id": 8,
+          "img": "../../assets_mt/upload/326d2c1ced183f721e6119630a20dd965c42f3ee.jpg",
+          "name_ja": "喜多 功次",
+          "name_en": "Koji Kita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 15,
+      "img": "../../assets_mt/upload/02_session_06.png",
+      "name": "【キッズプログラマーの8年後】小4で元素図鑑アプリを作った私が、UK Young Engineer of the Year 2021を受賞するまで",
+      "caption": "2021年6月末、留学先であるイギリス最大の若者向け科学技術コンテスト「The Big Bang Competition 」で優勝し「UK Young Engineer of the Year 2021」を受賞。小学3年生からプログラミングを始め、テクノロジーの面白さを知り、その時の自分の関心ごとと掛け合わせてさらに興味を深める作品を作ってきました。国内からアジア大会まで数多くのプログラミングコンテストで受賞をしてきたこれまでの経緯と、「UK Young Engineer of the Year 2021」受賞作品について紹介します。 ",
+      "day": "2021年8月11日(水)",
+      "open_time": "16:05",
+      "close_time": "16:25",
+      "youtubeId": "oyjMVMtHLhs",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 27,
+          "img": "../../assets_mt/upload/2-5_suganokaede.jpg",
+          "name_ja": "菅野 楓",
+          "name_en": "Kaede Sugano",
+          "position": "Tech Kids School卒業生 高校3年生（海外留学中）"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 13,
+      "img": "../../assets_mt/upload/02_session_05.png",
+      "name": "【キッズプログラマーの5年後】16才の僕が“医療の課題をテクノロジーで解決したい”と思うまで",
+      "caption": "小学5年生からTech Kids Schoolに通いプログラミングを始め、翌年、史上最年少で未踏ジュニアスーパークリエーターに採択されました。現在は、“医療では解決できないことを、テクノロジーで解決する”をテーマに活動をしています。これまでに開発してきたもの、支援や刺激を受けてきたひとやこと、そして現在取り組んでいる活動についてお話しします。",
+      "day": "2021年8月11日(水)",
+      "open_time": "15:45",
+      "close_time": "16:05",
+      "youtubeId": "T4ez6t866mc",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 26,
+          "img": "../../assets_mt/upload/2-5_RayOtsuka.jpg",
+          "name_ja": "大塚 嶺",
+          "name_en": "Ray Otsuka",
+          "position": "Tech Kids School卒業生 高校1年生（海外留学中）"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 12,
+      "img": "../../assets_mt/upload/02_session_04.png",
+      "name": "多良木町のIT人材育成チャレンジ",
+      "caption": "これからの社会をつくっていく子どもたちに必要とされるITリテラシー。地域を問わず必要とされると考えられますが、地方では都市部と比べるとIT企業なども少なく一般的に接触の機会が不足とされています。そんな課題を感じていた、人口約9,200人の熊本県の多良木町とIT企業が共催して開催されたプログラミングワークショップ。地方で感じる課題や、子どもたちの未来にIT企業にできることなどを多良木町でまちづくりに携わる方とIT企業の社員が語ります。",
+      "day": "2021年8月11日(水)",
+      "open_time": "15:05",
+      "close_time": "15:35",
+      "youtubeId": "ZTpr66FaOcE",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 10,
+          "img": "../../assets_mt/upload/2-4-1_tochihara.jpg",
+          "name_ja": "栃原 誠",
+          "name_en": "Makoto Tochihara",
+          "position": "一般財団法人たらぎまちづくり推進機構 業務執行理事COO"
+        },
+
+        {
+          "id": 11,
+          "img": "../../assets_mt/upload/508a9e0bb7fbc683859beb26db28469cf2f8a8a8.jpg",
+          "name_ja": "田中 翔太",
+          "name_en": "Shota Tanaka",
+          "position": "株式会社ディー・エヌ・エー ゲーム事業本部コンテンツ企画部 プロデューサー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 11,
+      "img": "../../assets_mt/upload/02_session_03.png",
+      "name": "私たちがエンジニアになるまで",
+      "caption": "2021年1月「1⼈の⼥性がエンジニアになるまで」というブログ記事が公開されました。呼応した多くの方が「エンジニアになるまで」のブログを投稿し、やがて大きなムーブメントになりました。こうした「エンジニアになるまで」のエピソードは、すでにエンジニアとして活躍している方にとっては自分の原体験を振り返る契機となり、これからエンジニアを目指す方にとっても勇気づけられるものになると思います。本セッションでは、誰もがテクノロジーに触れて楽しめる社会に向けて、さまざまな立場から「エンジニアになるまで」を語り合います。 ",
+      "day": "2021年8月11日(水)",
+      "open_time": "14:25",
+      "close_time": "14:55",
+      "youtubeId": "FvudeRz3u3U",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 22,
+          "img": "../../assets_mt/upload/2-3-2_wiroha.jpg",
+          "name_ja": "ゐろは",
+          "name_en": "wiroha",
+          "position": ""
+        },
+
+        {
+          "id": 23,
+          "img": "../../assets_mt/upload/2-3-3_natuyo.jpg",
+          "name_ja": "夏目 葉太（なつよ）",
+          "name_en": "Youta Natsume(Natsuyo)",
+          "position": "クリエーションライン株式会社 Customer Relationship Team"
+        },
+
+        {
+          "id": 24,
+          "img": "../../assets_mt/upload/2-3-4_ai_minatogawa.jpg",
+          "name_ja": "湊川 あい",
+          "name_en": "Ai Minatogawa",
+          "position": "フリーランス IT漫画家"
+        },
+
+        {
+          "id": 21,
+          "img": "../../assets_mt/upload/2-3-1_yuko_kondo.jpg",
+          "name_ja": "近藤 佑子",
+          "name_en": "Yuko Kondo",
+          "position": "株式会社翔泳社 CodeZine 編集長／Developers Summit オーガナイザー"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 10,
+      "img": "../../assets_mt/upload/02_session_02.png",
+      "name": "急拡大する民間プログラミング教室のトレンドとその未来",
+      "caption": "近年、特に小中高の公教育においてプログラミング教育の拡大や推進が目立っています。プログラミング教育ポータルサイト「コエテコ byGMO」では2018年から「子ども向けプログラミング教育市場調査」を実施しています。日本の子ども向けプログラミング教育市場、3年間で約2倍に拡大。コロナ禍でも前年比125%と二桁成長しています。今後「プログラミングは必須のスキル」という認識がさらに保護者の中で大きくなってくると考え、そういった影響も加味すると、子ども向けプログラミング教育市場は2025年には400億円規模に到達すると予測します。公教育と対比した民間でのプログラミング教育の市場概観とトレンドについて、市場調査を行っている立場からお話しします。",
+      "day": "2021年8月11日(水)",
+      "open_time": "13:55",
+      "close_time": "14:15",
+      "youtubeId": "ihlViTWuNgc",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 25,
+          "img": "../../assets_mt/upload/2-2-1_numata.jpg",
+          "name_ja": "沼田 直之",
+          "name_en": "Naoyuki Numata",
+          "position": "GMOメディア株式会社 サービス開発部 マネージャー コエテコ事業責任者"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 9,
+      "img": "../../assets_mt/upload/02_session_01.png",
+      "name": "オンラインの勉強会ってどうやってるの？新時代に挑戦するイベント運営奮闘記",
+      "caption": "リモートワークが中心になり、以前は当たり前だったオフィスで毎日顔を合わせる機会が減る中で、エンジニア組織を活性化させるためにどのような苦労があり、どんな工夫が行われてきたのか。いつもは縁の下の力持ちとしてエンジニアを陰ながら支える各社の組織開発担当者が、この1年間のオンライン勉強会の取り組みについてお話しします。",
+      "day": "2021年8月11日(水)",
+      "open_time": "13:00",
+      "close_time": "13:45",
+      "youtubeId": "_VuI9or72FU",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 6,
+          "img": "../../assets_mt/upload/2-1-1_everes_makoto_tsuyuki.jpg",
+          "name_ja": "露木 誠",
+          "name_en": "Makoto Tsuyuki",
+          "position": "株式会社ディー・エヌ・エー システム本部CTO室"
+        },
+
+        {
+          "id": 7,
+          "img": "../../assets_mt/upload/2-1-2_CA_ito.jpg",
+          "name_ja": "伊藤 淳貴",
+          "name_en": "Atsuki Ito",
+          "position": "株式会社サイバーエージェント 全社推進部 技術推進室, Developers Connect"
+        },
+
+        {
+          "id": 18,
+          "img": "../../assets_mt/upload/2-1-3_inamori.jpg",
+          "name_ja": "稲守 貴久",
+          "name_en": "Takahisa Inamori",
+          "position": "GMOインターネット株式会社 次世代システム研究室 チーフクリエイター 兼 デベロッパーリレーションズチーム"
+        },
+
+        {
+          "id": 8,
+          "img": "../../assets_mt/upload/326d2c1ced183f721e6119630a20dd965c42f3ee.jpg",
+          "name_ja": "喜多 功次",
+          "name_en": "Koji Kita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        },
+
+        {
+          "id": 9,
+          "img": "../../assets_mt/upload/2-1-5_yusakukinoshita.jpg",
+          "name_ja": "木下 雄策",
+          "name_en": "Yusaku Kinoshita",
+          "position": "株式会社メルカリ Engineering Office"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/219678/",
+        "url": "hello-tech",
+        "name_theme": "#02 Hello, tech! ",
+        "name_title": "触れて、学んで、楽しむ",
+        "deadline": "8月10日(火) 17:00",
+        "day": "8月11日(水)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 8,
+      "img": "../../assets_mt/upload/01_session_08.png",
+      "name": "Recap & Preview",
+      "caption": "BIT VALLEY 2021 #01のセッションを振り返り、アフタートークと#02の注目セッションなどを、トークセッション形式でお話します。",
+      "day": "2021年7月20日(火)",
+      "open_time": "16:20",
+      "close_time": "16:40",
+      "youtubeId": "",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 12,
+          "img": "../../assets_mt/upload/6c0f8a30d14f380194481e0a0bef84835a0debca.jpg",
+          "name_ja": "村瀬 龍馬",
+          "name_en": "Tatsuma Murase",
+          "position": "株式会社ミクシィ 取締役CTO"
+        },
+
+        {
+          "id": 13,
+          "img": "../../assets_mt/upload/1-7_EmiSugita.jpg",
+          "name_ja": "杉田 絵美",
+          "name_en": "Emi Sugita",
+          "position": "株式会社ミクシィ CTO室 DevRelグループ"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 5,
+      "img": "../../assets_mt/upload/01_session_05.png",
+      "name": "東京都のスタートアップ戦略について",
+      "caption": "東京都は、スタートアップ・エコシステムのグローバル拠点都市として、スタートアップの支援に取り組んでいます。行政がスタートアップの創出・成長を目指す目的は何か。そのために、東京都では今、どのような支援を行っているのか。そして、東京を「世界一のスタートアップ都市」とするために、今後どういう方向で取り組んでいくのか。未来の東京を創る、東京のスタートアップ戦略について紹介します。",
+      "day": "2021年7月20日(火)",
+      "open_time": "16:00",
+      "close_time": "16:20",
+      "youtubeId": "QhOct77ysCY",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 3,
+          "img": "../../assets_mt/upload/391f06fdc6f34b33d04746f7a0aa767cedfc4ca9.jpg",
+          "name_ja": "宮坂 学",
+          "name_en": "Manabu Miyasaka",
+          "position": "東京都 副知事"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 7,
+      "img": "../../assets_mt/upload/01_session_07.png",
+      "name": "実証実験を通して描く、街で活躍する対話ロボットの未来予想図",
+      "caption": "感染症が拡大する状況にて、店舗での顧客コミュニケーションの形が大きく変わり、特に遠隔操作型のロボット・エージェントの価値が大きく見直されています。AI技術の革新によってロボットが自律的にできることが増えてきていますが、街中のような「リアルな環境での人との対話」はまだまだ解決できていない課題です。私たちは大阪大学との対話ロボットの共同研究を進めてきた4年間で、これまで20以上のフィールドで様々なタスクを行うロボットの実証実験を実施してきました。今回はその中でも遠隔操作型ロボットに焦点を当てた実証実験の結果をご紹介しながら、街中で活躍する対話ロボットのビジネス価値とそれを実現するために必要な技術について議論したいと思います。",
+      "day": "2021年7月20日(火)",
+      "open_time": "15:30",
+      "close_time": "15:50",
+      "youtubeId": "R-OPhRmJR6c",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 5,
+          "img": "../../assets_mt/upload/564066ae8c44a0d29cd8cfb8dbb0246550722af8.jpg",
+          "name_ja": "馬場 惇",
+          "name_en": "Jun Baba",
+          "position": "株式会社サイバーエージェント AI Lab 主任研究員"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 6,
+      "img": "../../assets_mt/upload/01_session_06.png",
+      "name": "地方の産業活性に活用されるMakuakeの仕組みと最新事例",
+      "caption": "Makuakeには、毎日のように、全国の様々なジャンルの企業からの相談が届きます。企業規模問わず、その数は、月に約600件にも及びます。 新しいモノや体験の応援購入サービスである「Makuake」を活用することで、企業にはどんな変化が起こり、それは、地方創生に、どう寄与しているのでしょうか。 コロナ禍のDX化の流れの中でさらに活用が進む「Makuake」の仕組みと、その実際の事例を通して、地方とMakuakeの関わりをご紹介します。",
+      "day": "2021年7月20日(火)",
+      "open_time": "15:00",
+      "close_time": "15:20",
+      "youtubeId": "5hNv3AfYBIc",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 4,
+          "img": "../../assets_mt/upload/7ebbef64b6eb62f7714cd7b60916753e216879d1.jpg",
+          "name_ja": "坊垣 佳奈",
+          "name_en": "Kana Bogaki",
+          "position": "株式会社マクアケ 共同創業者/取締役"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 4,
+      "img": "../../assets_mt/upload/01_session_04.png",
+      "name": "新しい社会価値の種が生まれる共創施設。SHIBUYA QWS（渋谷キューズ）とは？",
+      "caption": "渋谷スクランブルスクエアの15階に位置する、共創施設「SHIBUYA QWS（渋谷キューズ）」。渋谷ならではの多様な人材が交差交流し、これまで沢山の「新しい社会価値の種」が生まれました。今回はコミュニティマネージャーの星川が、現在活動中の「渋谷肥料プロジェクト」のメンバーとプロジェクト推進に掛ける熱い想いを語り合います！",
+      "day": "2021年7月20日(火)",
+      "open_time": "14:30",
+      "close_time": "14:50",
+      "youtubeId": "NQqi2_yE5pE",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 1,
+          "img": "../../assets_mt/upload/889fe124144ac85fa3b4a6697e71c28d1ae003a2.jpg",
+          "name_ja": "星川 和也",
+          "name_en": "Kazuya Hoshikawa",
+          "position": "渋谷スクランブルスクエア 株式会社 営業一部 SHIBUYA QWS div. チーフ"
+        },
+
+        {
+          "id": 2,
+          "img": "../../assets_mt/upload/bf67ffe73e8f017766917f2ff53764f73824937e.jpg",
+          "name_ja": "坪沼 敬広",
+          "name_en": "Takahiro Tsubonuma",
+          "position": "渋谷肥料 / 渋谷土産 代表"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 3,
+      "img": "../../assets_mt/upload/01_session_03.png",
+      "name": "スタートアップフレンドリーな街を目指して ～渋谷区のスタートアップ支援戦略～",
+      "caption": "昨年から始まった渋谷区のスタートアップ事業は、実証実験の受け入れ、スタートアップフレンドリーな環境作り、スタートアップビザの運用開始等、盛り沢山です。これらの支援事業の紹介に加え、昨年渋谷区主導でスタートした渋谷スタートアップ・デックは今や会員企業が60社を超え、エコシステム構築を進めています。Bit Valleyが築いてきた渋谷のエコシステムに加わる渋谷区役所の動き1年目とこれからを紹介します。",
+      "day": "2021年7月20日(火)",
+      "open_time": "14:00",
+      "close_time": "14:20",
+      "youtubeId": "T5P8H14d3Io",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 20,
+          "img": "../../assets_mt/upload/1-2_Saeko_Seno.jpg",
+          "name_ja": "瀬野 小枝子",
+          "name_en": "Saeko Seno",
+          "position": "渋谷区役所 グローバル拠点都市推進室係長"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 2,
+      "img": "../../assets_mt/upload/01_session_02.png",
+      "name": "BIT VALLEY 2021 Keynote 変わる働き方とカルチャー、変えるテクノロジー",
+      "caption": "本セッションでは、「BIT VALLEY 2021」のKeynoteとして\"働き方\" をメインテーマに、渋谷を拠点とするITベンチャー4社のCTOがこの一年を振り返り、各社における働き方の変化やリモートワークに対する変革当初(昨年春頃)と現在とでの考え方の変化、オフィスや社内システムなど多様化した働き方に適応するために実施した取組みなど、4社を比較しながらカジュアルなトーク・セッション形式で、参加者の皆さまからの質問にもお答えしながらお話ししていきます。",
+      "day": "2021年7月20日(火)",
+      "open_time": "13:10",
+      "close_time": "13:50",
+      "youtubeId": "6vmVYtIpChk",
+      "moderator": "1",
+      "speaker": [
+
+        {
+          "id": 14,
+          "img": "../../assets_mt/upload/1-1-1_CAnagase.jpg",
+          "name_ja": "長瀬 慶重",
+          "name_en": "Norishige Nagase",
+          "position": "株式会社サイバーエージェント 常務執行役員（技術担当）"
+        },
+
+        {
+          "id": 15,
+          "img": "../../assets_mt/upload/c1b26b96520ed47beb6ec9ab52825639d9cdc20f.jpg",
+          "name_ja": "小林 篤",
+          "name_en": "Atsushi Kobayashi",
+          "position": "株式会社ディー・エヌ・エー 常務執行役員 CTO"
+        },
+
+        {
+          "id": 17,
+          "img": "../../assets_mt/upload/1-1-3_kuribayashi.jpg",
+          "name_ja": "栗林 健太郎",
+          "name_en": "Kentaro Kuribayashi",
+          "position": "GMOペパボ株式会社 取締役CTO"
+        },
+
+        {
+          "id": 12,
+          "img": "../../assets_mt/upload/6c0f8a30d14f380194481e0a0bef84835a0debca.jpg",
+          "name_ja": "村瀬 龍馬",
+          "name_en": "Tatsuma Murase",
+          "position": "株式会社ミクシィ 取締役CTO"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    },
+
+    {
+      "id": 1,
+      "img": "../../assets_mt/upload/01_session_01.png",
+      "name": "スペシャル・オープニング・トーク",
+      "caption": "プロジェクト立ち上げ当初より「SHIBUYA BIT VALLEY」プロジェクトの活動にご協力いただいている渋谷区 長谷部区長に、BIT VALLEY 2021コンセプト「変わる働き方とカルチャー、変えるテクノロジー」に関連した取り組みについてや、区長としての視点で働き方や社会の変化、これからのテクノロジーに期待することなどをお話しいただきます。",
+      "day": "2021年7月20日(火)",
+      "open_time": "13:00",
+      "close_time": "13:10",
+      "youtubeId": "2gxrHyn4L20",
+      "moderator": "",
+      "speaker": [
+
+        {
+          "id": 19,
+          "img": "../../assets_mt/upload/1-0_hasebe.jpg",
+          "name_ja": "長谷部 健",
+          "name_en": "Ken Hasebe",
+          "position": "渋谷区役所 区長"
+        }
+
+      ],
+      "program": {
+
+
+        "join_url": "https://sbv.connpass.com/event/212753/",
+        "url": "local-startup",
+        "name_theme": "#01 Local × Startup",
+        "name_title": "街とStartup",
+        "deadline": "7月19日(月) 17:00",
+        "day": "7月20日(火)",
+        "status": "3"
+
+      }
+    }
+
+  ]
+}
